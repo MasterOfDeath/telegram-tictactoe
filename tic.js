@@ -1,3 +1,7 @@
+document.addEventListener("DOMContentLoaded", () => {
+  Telegram.WebApp.expand();
+});
+
 // Function called whenever user tab on any box 
 function myfunc() { 
 
